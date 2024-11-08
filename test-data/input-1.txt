@@ -1,0 +1,8 @@
+GT4500,0,0,0,0 #0 torpedo
+TORPEDO,SINGLE
+TORPEDO,ALL
+
+#   Követelmény:    GT4500-torpedóival nem lehet tüzelni
+#   Előfeltétel:    Nincs torpedó
+#   Teszt lépései:  tüzelünk egyet(SINGLE), tüzeljük az összeset(ALL)
+#   Eredmény:       a hajó létrehozása sikeres, a tüzelések FAIL
