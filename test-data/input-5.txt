@@ -1,0 +1,7 @@
+GT4500,0,0,1,0
+TORPEDO,ALL
+
+#   Követelmény:    GT4500-torpedóival lehet tüzelni egyszer az ALL-t használva
+#   Előfeltétel:    csak a második tárban van összesen 2
+#   Teszt lépései:  tüzelünk egyet(ALL)
+#   Eredmény:       a hajó létrehozása sikeres, az első tüzelés sikeres

@@ -1,0 +1,8 @@
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
+#   Követelmény:    GT4500-torpedóival lehet tüzelni egyet
+#   Előfeltétel:    csak a második tárban van 1 torpedó
+#   Teszt lépései:  tüzelünk egyet(SINGLE), tüzelünk mégegyet
+#   Eredmény:       a hajó létrehozása sikeres, az első tüzelés sikeres, a második FAIL
