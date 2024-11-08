@@ -1,4 +1,4 @@
-GT4500,1,0,0,0
+GT4500,0,0,1,0
 TORPEDO,ALL
 
 #   Követelmény:    GT4500-torpedóival lehet tüzelni egyszer az ALL-t használva
